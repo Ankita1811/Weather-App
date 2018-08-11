@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to right, green, skyblue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Lobster', cursive;
+}
